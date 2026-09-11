@@ -1,0 +1,8 @@
+.DS_Store
+*.heic
+*.HEIC
+*.zip
+.sites-runtime/
+
+data/original-photos/
+output/

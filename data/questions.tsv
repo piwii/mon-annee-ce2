@@ -1,0 +1,170 @@
+220	Quelle proposition est une phrase correcte ?	Le lapin mange une carotte.	le lapin mange une carotte	Carotte une le mange lapin.	Une phrase a un sens, commence par une majuscule et se termine par un signe de ponctuation.
+220	Une phrase peut-elle continuer sur la ligne suivante ?	Oui, une phrase peut occuper plusieurs lignes.	Non, chaque ligne est toujours une phrase.	Oui, mais seulement sans majuscule.	Une ligne dépend de la place sur la page. Une phrase se termine par un signe de ponctuation, pas forcément au bout de la ligne.
+221	Quel est le type de la phrase « Où habites-tu ? » ?	Interrogative	Déclarative	Impérative	Cette phrase pose une question : elle est interrogative.
+221	Quelle phrase donne un ordre ?	Ferme la porte.	La porte est fermée.	La porte est-elle fermée ?	« Ferme la porte. » demande à quelqu’un d’agir : c’est une phrase impérative.
+222	Quelle phrase pose correctement une question ?	Est-ce que tu aimes lire ?	Tu aimes lire.	Tu aimes lire !	« Est-ce que » et le point d’interrogation permettent de poser une question.
+222	Transforme « Tu viens demain. » en inversant le sujet et le verbe.	Viens-tu demain ?	Tu viens demain.	Demain tu viens !	On place le verbe « viens » avant le sujet « tu » et on les relie par un trait d’union.
+223	Quelle est la forme négative de « Il joue dehors. » ?	Il ne joue pas dehors.	Il joue encore dehors.	Joue-t-il dehors ?	Pour construire la négation, on place « ne » avant le verbe et « pas » après.
+223	Quelle phrase est à la forme exclamative ?	Comme ce gâteau est bon !	Ce gâteau est bon.	Est-ce que ce gâteau est bon ?	La forme exclamative exprime ici une émotion forte. La phrase se termine par un point d’exclamation.
+224	Quel est le verbe dans « Les enfants dessinent un château. » ?	dessinent	enfants	château	« Dessinent » indique ce que font les enfants : c’est le verbe.
+224	Pour trouver le verbe, Léa met la phrase au futur. Quel mot change dans « Le chat dort. » ?	dort	chat	Le	Au futur, on dit « Le chat dormira. ». Le mot qui change est le verbe : « dort ».
+225	Quel est le sujet dans « Les oiseaux chantent le matin. » ?	Les oiseaux	chantent	le matin	Qui est-ce qui chante ? Ce sont les oiseaux. « Les oiseaux » est le sujet.
+225	Quel sujet convient dans « … jouons dans le jardin. » ?	Nous	Ils	Tu	Le verbe « jouons » s’accorde avec « nous » : nous jouons.
+226	Quel mot est un nom ?	maison	courir	joli	« Maison » désigne une chose : c’est un nom.
+226	Quel mot est un nom propre ?	Paris	ville	rivière	« Paris » désigne une ville précise. Ce nom propre commence par une majuscule.
+227	Quel est le déterminant dans « une petite tortue » ?	une	petite	tortue	« Une » accompagne le nom « tortue » : c’est le déterminant.
+227	Quel groupe contient un article défini ?	le vélo	un vélo	mon vélo	« Le » est un article défini. « Un » est un article indéfini et « mon » est un déterminant possessif.
+228	Quel déterminant indique que le cartable m’appartient ?	mon cartable	ce cartable	un cartable	« Mon » est un déterminant possessif : il indique à qui appartient le cartable.
+228	Complète avec un déterminant démonstratif : « Regarde … étoile ! »	cette	ce	cet	« Étoile » est un nom féminin singulier : on utilise « cette ».
+229	Quel pronom peut remplacer « Léo et Sami » ?	Ils	Il	Elle	Deux garçons peuvent être désignés par le pronom personnel « ils ».
+229	Quel est l’adjectif dans « une écharpe rouge » ?	rouge	écharpe	une	« Rouge » précise comment est l’écharpe : c’est un adjectif.
+230	Quel est le nom noyau dans « les petits chats noirs » ?	chats	petits	noirs	Le groupe nominal parle des chats. « Chats » est son nom noyau.
+230	Quels sont le genre et le nombre de « les petites fleurs » ?	Féminin pluriel	Masculin pluriel	Féminin singulier	« Fleur » est féminin. « Les » indique qu’il y en a plusieurs : le groupe est au pluriel.
+231	Quel mot est un adverbe dans « Lina marche doucement. » ?	doucement	Lina	marche	« Doucement » précise la manière de marcher. C’est un adverbe.
+231	Quelle est la préposition dans « Le livre est sur la table. » ?	sur	livre	table	« Sur » introduit le groupe « la table » et indique la position du livre.
+232	Quel est le complément du nom dans « une boîte de crayons » ?	de crayons	une boîte	une	« De crayons » complète le nom « boîte » et est introduit par la préposition « de ».
+232	Dans « Le chien poursuit la balle. », quel est le groupe sujet ?	Le chien	poursuit la balle	la balle	Le groupe sujet indique qui fait l’action : c’est le chien qui poursuit la balle.
+233	Quel est le COD dans « Nora mange une pomme. » ?	une pomme	Nora	mange	Nora mange quoi ? Une pomme. Le COD est relié directement au verbe, sans préposition.
+233	Quel est le COI dans « Hugo parle à sa sœur. » ?	à sa sœur	Hugo	parle	Hugo parle à qui ? À sa sœur. Le complément est introduit par la préposition « à ».
+234	Dans « Demain, nous partirons. », quel groupe indique quand ?	Demain	nous	partirons	« Demain » est un complément circonstanciel de temps : il indique quand l’action se passe.
+234	Quel mot est une conjonction de coordination dans « Je veux venir, mais je suis malade. » ?	mais	venir	malade	« Mais » relie les deux propositions et exprime une opposition : c’est une conjonction de coordination.
+235	Quel est l’attribut du sujet dans « Le ciel devient gris. » ?	gris	Le ciel	devient	« Gris » donne une information sur le sujet « le ciel » après le verbe d’état « devient ».
+235	Quelle phrase contient un attribut du sujet ?	Mila semble contente.	Mila dessine une maison.	Mila ouvre la fenêtre.	« Contente » décrit Mila après le verbe d’état « semble » : c’est l’attribut du sujet.
+236	Quelle est la nature du mot « rapidement » ?	Un adverbe	Un nom	Un déterminant	« Rapidement » est un mot invariable qui peut préciser la manière de faire une action : c’est un adverbe.
+236	Dans « Le petit chien aboie. », quelle est la nature du mot « petit » ?	Un adjectif	Un verbe	Un pronom	« Petit » donne une précision sur le nom « chien » : c’est un adjectif.
+237	Dans « Emma lit un conte. », quelle est la fonction de « Emma » ?	Sujet	COD	Complément circonstanciel	Emma est la personne qui lit : « Emma » est le sujet du verbe « lit ».
+237	Dans « Emma lit un conte. », quelle est la fonction de « un conte » ?	COD	Sujet	Attribut du sujet	Emma lit quoi ? Un conte. « Un conte » est le complément d’objet direct du verbe « lit ».
+238	Quel est l’infinitif de « nous chantons » ?	chanter	chantent	chantais	L’infinitif est la forme non conjuguée du verbe : chanter.
+238	Quelle forme est conjuguée ?	nous finissons	finir	grandir	« Finissons » varie avec le sujet « nous ». « Finir » et « grandir » sont des infinitifs.
+239	Complète au présent : « Nous … dans la cour. » (jouer)	jouons	jouez	jouent	Au présent, avec « nous », le verbe jouer se termine par -ons : nous jouons.
+239	Complète au présent : « Ils … leur travail. » (finir)	finissent	finissons	finit	Finir est un verbe du 2e groupe : au présent, on écrit « ils finissent ».
+240	Complète : « Vous … en avance. » (être, au présent)	êtes	sommes	sont	Au présent, le verbe être se conjugue « vous êtes ».
+240	Complète : « Nous … une idée. » (avoir, au présent)	avons	avez	ont	Au présent, le verbe avoir se conjugue « nous avons ».
+241	Complète au présent : « Vous … bonjour. » (dire)	dites	disez	disons	Dire est irrégulier : on dit « vous dites », pas « vous disez ».
+241	Complète au présent : « Ils … le bus. » (prendre)	prennent	prend	prenons	Au présent, « ils prennent » s’écrit avec deux n et la terminaison -ent.
+242	Complète au futur : « Demain, tu … ta trousse. » (chercher)	chercheras	cherches	cherchais	Pour le futur de chercher, on garde l’infinitif et on ajoute -as avec « tu » : chercheras.
+242	Complète au futur : « Nous … prêts. » (être)	serons	sommes	étions	Le futur du verbe être avec « nous » est « nous serons ».
+242	Complète au futur : « Vous … le temps. » (avoir)	aurez	avez	aviez	Le futur du verbe avoir avec « vous » est « vous aurez ».
+243	Complète au futur : « Demain, je … au parc. » (aller)	irai	vais	allais	Le verbe aller est irrégulier au futur : j’irai.
+243	Complète au futur : « Elles … un gâteau. » (faire)	feront	font	faisaient	Au futur, le verbe faire se conjugue « elles feront ».
+244	Complète à l’imparfait : « Autrefois, nous … ici. » (habiter)	habitions	habitons	habiterons	À l’imparfait, on utilise -ions avec « nous » : nous habitions.
+244	Complète à l’imparfait : « Tu … un vélo rouge. » (avoir)	avais	as	auras	À l’imparfait, le verbe avoir avec « tu » donne « tu avais ».
+244	Complète à l’imparfait : « Elles … joyeuses. » (être)	étaient	sont	seront	À l’imparfait, être se conjugue « elles étaient ».
+245	Complète à l’imparfait : « Vous … vos devoirs. » (faire)	faisiez	faites	ferez	À l’imparfait, on écrit « vous faisiez » avec la terminaison -iez.
+245	Complète à l’imparfait : « Nous … à la piscine. » (aller)	allions	allons	irons	À l’imparfait, on écrit « nous allions » avec deux l.
+246	Quelle forme verbale est à un temps composé ?	a chanté	chante	chantera	« A chanté » contient deux mots : l’auxiliaire avoir et le participe passé « chanté ».
+246	Complète au passé composé : « Nous … le dessin. » (finir)	avons fini	finissons	finirons	Le passé composé de finir se forme ici avec avoir au présent et le participe passé « fini ».
+247	Complète au passé composé : « Elle … le train. » (prendre)	a pris	a prend	prendra	Le participe passé de prendre est « pris » : elle a pris.
+247	Quel est le passé composé de « j’ai » ?	j’ai eu	j’avais	j’aurai	Le passé composé d’avoir est « j’ai eu » : avoir au présent suivi du participe passé « eu ».
+247	Quel est le passé composé de « il est » ?	il a été	il était	il sera	Le passé composé d’être se forme avec avoir : « il a été ».
+248	Quelle lettre vient juste après P dans l’alphabet ?	Q	O	R	La suite est O, P, Q, R. Q vient juste après P.
+248	Quelle liste est dans l’ordre alphabétique ?	chat, chien, chou	chien, chat, chou	chou, chien, chat	Les mots commencent par « ch ». On compare ensuite a, i et o : chat, chien, chou.
+249	Quel mot appartient à la famille de « jardin » ?	jardinier	jaune	gardien	« Jardinier » et « jardin » ont une partie commune et un sens lié.
+249	Quel est un synonyme de « joyeux » ?	content	triste	fatigué	« Joyeux » et « content » ont des sens proches : ce sont des synonymes.
+250	Quel est l’antonyme de « ouvrir » ?	fermer	entrer	regarder	Ouvrir et fermer ont des sens opposés : ce sont des antonymes.
+250	Quel mot générique regroupe la pomme, la poire et la banane ?	fruit	légume	boisson	Un mot générique nomme une catégorie. La pomme, la poire et la banane sont des fruits.
+251	Sous quelle forme cherches-tu « couraient » dans le dictionnaire ?	courir	couraient	couru	Dans le dictionnaire, on cherche un verbe à l’infinitif : courir.
+251	Pour trouver « bateau » et « ballon », quelles lettres permettent de les départager ?	Leurs troisièmes lettres : t et l	Leurs premières lettres : b et b	Le nombre de syllabes	Les deux mots commencent par « ba ». On compare ensuite l et t : ballon vient avant bateau.
+252	Que signifie « n. f. » dans un article de dictionnaire ?	Nom féminin	Nom facile	Nouvelle forme	« n. » signifie nom et « f. » signifie féminin.
+252	« Le chiot est épuisé : après sa longue promenade, il s’endort aussitôt. » Que veut dire « épuisé » ?	Très fatigué	Très affamé	Très bruyant	La promenade et le fait de s’endormir aident à comprendre qu’il est très fatigué.
+253	Dans « Il dévore un roman. », le mot « dévore » est employé…	au sens figuré	au sens propre	pour dire qu’il mange du papier	Il ne mange pas le livre : il le lit avec beaucoup d’intérêt. C’est le sens figuré.
+253	Quelle liste appartient au champ lexical de la mer ?	vague, plage, bateau	four, farine, gâteau	cahier, règle, trousse	Ces trois mots évoquent le même thème : la mer.
+254	Quel est le préfixe dans « refaire » ?	re-	-faire	-aire	Le préfixe se place au début du mot. Dans refaire, « re- » indique qu’on fait encore une fois.
+254	Quel est le suffixe dans « jardinier » ?	-ier	jar-	jardin-	Le suffixe se place après le radical. On ajoute -ier au radical jardin pour former jardinier.
+255	Quelle expression appartient au langage familier ?	J’ai la trouille.	J’ai peur.	Je ressens de la crainte.	« Avoir la trouille » est une expression familière. « Avoir peur » appartient au langage courant.
+255	Quel mot du langage courant peut remplacer « bagnole » ?	voiture	maison	chaussure	« Bagnole » est un mot familier. Dans le langage courant, on dit « voiture ».
+256	Quel mot aide à entendre la lettre finale muette de « petit » ?	petite	petits	petit	En disant « petite », on entend le t qui est muet dans « petit ».
+256	Quel accent vois-tu sur le é de « été » ?	Un accent aigu	Un accent grave	Un accent circonflexe	L’accent aigu est celui de é. L’accent grave est celui de è, et le circonflexe celui de ê.
+257	Dans quel mot la lettre s se prononce-t-elle comme un z ?	maison	sac	poisson	Entre deux voyelles, un seul s se prononce souvent comme z : maison. Deux s donnent le son s : poisson.
+257	Quelle écriture permet d’entendre le son s devant a ?	ça	ca	ga	La cédille permet au c de faire le son s devant a, o ou u : ça.
+258	Comment écrit-on le verbe pour garder le son g de « gare » devant e ?	guérir	gérir	jérir	On écrit gu devant e ou i pour garder le son g : guérir.
+258	Quel mot est bien écrit ?	tomber	tonber	tomper	Devant b, on écrit généralement m au lieu de n : tomber.
+259	Quelle écriture est correcte ?	une feuille	une feuil	un feuille	Le nom féminin « feuille » se termine par -ille.
+259	Complète : « Il va … son goûter. »	manger	mangé	mangez	Après « va », on peut remplacer par « prendre » : il va prendre. Il faut donc l’infinitif manger, en -er.
+260	Quel groupe nominal est correctement écrit au pluriel ?	les petits chats	les petit chat	les petits chat	Au pluriel, le déterminant, le nom et l’adjectif s’accordent : les petits chats.
+260	Quel est le pluriel de « un cheval » ?	des chevaux	des chevals	des cheval	Le nom cheval fait son pluriel en -aux : des chevaux.
+261	Quel est le féminin de « un boulanger » ?	une boulangère	une boulanger	une boulangeuse	Le nom boulanger devient boulangère au féminin.
+261	Complète : « une fille … » (heureux)	heureuse	heureux	heureuses	L’adjectif s’accorde avec « fille », féminin singulier : heureuse.
+262	Complète : « Il … un chat. »	a	à	as	On peut remplacer par « avait » : il avait un chat. On écrit donc a, sans accent.
+262	Complète : « Léa … Tom jouent. »	et	est	es	On peut dire « Léa et puis Tom ». « Et » relie les deux prénoms.
+262	Complète : « Les enfants … dans la cour. »	sont	son	sons	On peut remplacer par « étaient ». Il s’agit du verbe être : sont.
+264	Dans 472, quel est le chiffre des dizaines ?	7	4	2	472 contient 4 centaines, 7 dizaines et 2 unités. Le chiffre des dizaines est 7.
+264	Quelle décomposition correspond à 583 ?	500 + 80 + 3	50 + 80 + 3	500 + 8 + 3	583, c’est 5 centaines, 8 dizaines et 3 unités : 500 + 80 + 3.
+265	Quel nombre correspond à « deux-cent-trente-six » ?	236	263	2036	Deux cents valent 200, trente vaut 30 et six vaut 6 : 200 + 30 + 6 = 236.
+265	Quel nombre est pair ?	48	35	71	Un nombre entier est pair si son chiffre des unités est 0, 2, 4, 6 ou 8. 48 se termine par 8.
+266	Quel signe complète « 407 … 470 » ?	<	>	=	Les centaines sont identiques. On compare les dizaines : 0 est plus petit que 7, donc 407 < 470.
+266	Quelle liste est rangée du plus petit au plus grand ?	128, 182, 218	218, 182, 128	182, 128, 218	128 est plus petit que 182, et les deux sont plus petits que 218.
+267	Quel encadrement à la dizaine est correct pour 346 ?	340 < 346 < 350	300 < 346 < 310	350 < 346 < 360	346 se trouve entre les deux dizaines consécutives 340 et 350.
+267	Entre quelles centaines consécutives se trouve 728 ?	700 et 800	720 et 730	600 et 700	728 est plus grand que 700 et plus petit que 800. 720 et 730 sont des dizaines, pas des centaines.
+268	Combien de centaines faut-il pour faire 1 000 ?	10	100	1	10 centaines valent 10 × 100 = 1 000.
+268	Dans 347, quel est le nombre de dizaines complètes ?	34	4	347	347 = 34 dizaines et 7 unités. 4 est seulement le chiffre des dizaines.
+269	Dans 3 482, quel chiffre occupe la colonne des milliers ?	3	4	8	3 482 contient 3 milliers, 4 centaines, 8 dizaines et 2 unités.
+269	Une tarte est partagée en 4 parts égales. Tu prends 3 parts. Quelle fraction prends-tu ?	3/4	4/3	1/3	Le dénominateur 4 indique les 4 parts égales de l’unité ; le numérateur 3 indique les parts prises.
+270	Quelle fraction est supérieure à 1 ?	5/4	3/4	1/4	5/4 est supérieur à 1 car 5 parts d’un quart représentent plus que les 4 quarts d’une unité.
+270	Quelle comparaison est correcte ?	2/5 < 4/5	2/5 > 4/5	2/5 = 4/5	Les parts ont la même taille, des cinquièmes. Quatre parts représentent plus que deux parts.
+271	Combien font 8 + 7 ?	15	14	16	On peut faire 8 + 2 = 10, puis ajouter les 5 qui restent : 15.
+271	Complète : « 6 + … = 14 ».	8	7	9	6 + 8 = 14. Tu peux aussi calculer 14 − 6 = 8.
+272	Quel est le double de 25 ?	50	27	100	Le double, c’est deux fois le nombre : 25 + 25 = 50.
+272	Quelle est la moitié de 18 ?	9	36	8	Partager 18 en deux parts égales donne 9 dans chaque part : 9 + 9 = 18.
+273	Combien faut-il ajouter à 7 pour obtenir 10 ?	3	2	4	7 + 3 = 10. Le complément de 7 à 10 est 3.
+273	Combien faut-il ajouter à 60 pour obtenir 100 ?	40	30	50	6 dizaines + 4 dizaines = 10 dizaines : 60 + 40 = 100.
+274	Calcule : 248 + 137.	385	375	3815	8 + 7 = 15 : on écrit 5 et on retient 1 dizaine. Puis 4 + 3 + 1 = 8 dizaines et 2 + 1 = 3 centaines : 385.
+274	Quand on pose 56 + 128, où faut-il placer le 6 de 56 ?	Sous le 8, dans la colonne des unités	Sous le 2, dans la colonne des dizaines	Sous le 1, dans la colonne des centaines	Pour une addition posée, on aligne les unités avec les unités. 6 et 8 sont les chiffres des unités.
+275	Combien faut-il ajouter à 36 pour obtenir 100 ?	64	74	54	De 36 à 40, on ajoute 4. De 40 à 100, on ajoute 60. Au total : 4 + 60 = 64.
+275	Calcule en décomposant 13 : 58 − 13.	45	55	41	58 − 10 = 48, puis 48 − 3 = 45.
+276	Calcule : 63 − 28.	35	45	41	63 − 20 = 43, puis 43 − 8 = 35. Vérification : 35 + 28 = 63.
+276	Quelle addition permet de vérifier que 74 − 36 = 38 ?	38 + 36 = 74	74 + 36 = 110	38 + 74 = 112	Pour vérifier une soustraction, on ajoute le résultat au nombre retiré : on retrouve le nombre de départ.
+277	Combien font 2 × 8 ?	16	10	18	Multiplier par 2 revient à chercher le double : 8 + 8 = 16.
+277	Combien font 5 × 7 ?	35	30	12	La table de 5 avance de 5 en 5 : 5, 10, 15, 20, 25, 30, 35.
+278	Combien font 4 × 6 ?	24	20	28	On peut doubler deux fois 6 : 6 → 12 → 24.
+278	Combien font 3 × 8 ?	24	21	11	3 × 8, c’est 8 + 8 + 8 = 24.
+279	Combien font 9 × 7 ?	63	67	56	On calcule 10 × 7 = 70, puis on retire un groupe de 7 : 70 − 7 = 63.
+279	Combien font 6 × 8 ?	48	42	54	On peut faire 5 × 8 = 40, puis ajouter encore 8 : 48.
+280	Combien font 7 × 8 ?	56	54	64	7 × 8 = 56. On peut faire 5 × 8 + 2 × 8 = 40 + 16 = 56.
+280	Combien font 8 × 8 ?	64	56	72	8 × 8 = 64. C’est aussi le double de 4 × 8, donc le double de 32.
+281	Complète : « 6 × … = 42 ».	7	6	8	Dans la table de 6, on trouve 6 × 7 = 42.
+281	Si 4 × 9 = 36, combien font 9 × 4 ?	36	13	40	Dans une multiplication, on peut changer l’ordre des facteurs sans changer le résultat.
+282	Combien font 43 × 100 ?	4 300	430	143	43 centaines, c’est 4 300. Pour ce nombre entier, multiplier par 100 revient à écrire deux zéros à sa droite.
+282	Combien font 6 × 50 ?	300	30	56	6 × 5 dizaines = 30 dizaines, soit 300.
+283	Quelle décomposition permet de calculer 23 × 4 ?	(20 × 4) + (3 × 4)	(20 × 4) + 3	23 + 4	On multiplie les deux parties de 23 par 4 : 80 + 12 = 92.
+283	Quel est le double de 124 ?	248	228	128	Le double de 100 est 200, de 20 est 40 et de 4 est 8 : 200 + 40 + 8 = 248.
+283	Quelle est la moitié de 86 ?	43	48	172	La moitié de 80 est 40 et la moitié de 6 est 3. On obtient 43.
+284	Calcule : 126 × 3.	378	368	129	3 × 6 = 18 : 8 unités et 1 dizaine de retenue. Puis 3 × 2 + 1 = 7 dizaines et 3 × 1 = 3 centaines : 378.
+284	Comment s’appelle le résultat d’une multiplication ?	Le produit	La somme	La différence	Le résultat d’une multiplication s’appelle le produit. La somme correspond à l’addition.
+285	On partage 20 billes équitablement entre 4 enfants. Combien chacun en reçoit-il ?	5	4	16	On cherche combien de fois 4 entre dans 20 : 4 × 5 = 20. Chaque enfant reçoit 5 billes.
+285	On partage 23 biscuits entre 5 enfants, sans casser les biscuits. Quel partage est correct ?	4 chacun et 3 restants	5 chacun et 2 restants	3 chacun et 4 restants	5 × 4 = 20 et 23 − 20 = 3. Chacun reçoit 4 biscuits, il en reste 3.
+286	Dans « 29 = 4 × 7 + 1 », si on divise 29 par 4, quels sont le quotient et le reste ?	Quotient 7, reste 1	Quotient 4, reste 7	Quotient 1, reste 7	Le quotient indique combien de groupes de 4 on peut former : 7 groupes, avec 1 restant.
+286	On divise un nombre entier par 5. Quel reste est impossible ?	6	4	0	Le reste doit être plus petit que le diviseur. Avec un reste de 6, on pourrait encore former un groupe de 5.
+287	Comment tracer un segment entre deux points A et B ?	Aligner le bord de la règle avec les deux points, puis tracer	Relier les points à main levée	Placer la règle loin des points	Le bord de la règle doit passer par les deux points pour tracer un segment droit qui les relie.
+287	Quelle est la différence entre une droite et un segment ?	Un segment a deux extrémités ; une droite se prolonge sans fin.	Une droite a deux extrémités ; un segment n’en a pas.	Un segment est toujours courbé.	Un segment est une partie de droite limitée par deux points, ses extrémités.
+288	Un segment AB mesure 10 cm. M est son milieu. Combien mesure AM ?	5 cm	10 cm	2 cm	Le milieu partage le segment en deux parties égales : 10 ÷ 2 = 5 cm.
+288	Comment vérifier que trois points sont alignés ?	Vérifier qu’ils sont tous sur le même bord de la règle	Vérifier qu’ils ont la même couleur	Mesurer seulement la distance entre les deux premiers	Des points alignés appartiennent à une même droite. Le bord de la règle permet de le vérifier.
+289	Sur un quadrillage, les colonnes sont A, B, C de gauche à droite. Les lignes sont 1, 2, 3 du haut vers le bas. Quel est le code de la case centrale ?	B2	A2	B1	La case centrale est dans la colonne B et sur la ligne 2 : B2.
+289	Qu’appelle-t-on un nœud du quadrillage ?	Le point où deux lignes se croisent	L’intérieur d’une case	Toute une colonne	Un nœud est une intersection des lignes du quadrillage. Ce n’est pas l’intérieur d’une case.
+290	Les colonnes A, B, C, D vont de gauche à droite. Tu es en A2 et avances de deux cases à droite. Où arrives-tu ?	C2	B2	A4	De A2, une case à droite mène à B2 et la deuxième à C2. La ligne reste 2.
+290	Pour reproduire une figure sur un quadrillage, que faut-il faire ?	Compter les carreaux pour replacer ses points, puis les relier	Placer les points au hasard	Changer les longueurs des côtés	On conserve les déplacements entre les points en comptant les carreaux, puis on relie les points dans le même ordre.
+291	Quelle figure est un polygone ?	Un triangle	Un cercle	Un ovale	Un polygone est une figure fermée dont tous les côtés sont des segments. Le triangle en est un.
+291	Combien de côtés possède un quadrilatère ?	4	3	5	Un quadrilatère est un polygone à quatre côtés.
+292	Quel outil permet de vérifier un angle droit ?	Une équerre	Une balance	Un compas seul	On place l’angle droit de l’équerre sur l’angle à vérifier et on observe si les côtés coïncident.
+292	Pour tracer un angle droit, quel coin de l’équerre faut-il utiliser ?	Son coin à angle droit	N’importe lequel de ses trois coins	Le milieu de son plus long côté	Une équerre possède un angle droit. C’est ce coin qu’on utilise pour tracer les deux côtés de l’angle.
+293	Qu’est-ce qu’un triangle rectangle ?	Un triangle qui possède un angle droit	Un triangle à quatre côtés	Un triangle qui n’a aucun angle	Un triangle a trois côtés. Il est rectangle lorsqu’un de ses angles est droit.
+293	Comment vérifier qu’une ligne est un axe de symétrie d’une figure ?	En pliant sur cette ligne, les deux parties se superposent.	Les deux parties ont seulement la même couleur.	La ligne traverse forcément un coin.	L’axe de symétrie permet de superposer exactement les deux parties lorsqu’on plie la figure.
+294	Un point est à 3 carreaux à gauche d’un axe vertical. Où se trouve son symétrique ?	À 3 carreaux à droite, sur la même ligne	À 2 carreaux à droite, sur la même ligne	À 3 carreaux à gauche, sur la ligne du dessous	Deux points symétriques sont de part et d’autre de l’axe, à la même distance de celui-ci.
+294	À quoi correspond le rayon d’un cercle ?	La distance du centre à un point du cercle	La distance entre deux points quelconques du cercle	Le tour complet du cercle	Tous les points du cercle sont à la même distance du centre. Cette distance est le rayon.
+295	Quelle forme est un solide ?	Un cube	Un carré dessiné	Un triangle dessiné	Un solide a trois dimensions. Le cube occupe un volume ; le carré et le triangle sont des figures planes.
+295	Combien de faces possède un cube ?	6	4	8	Un cube possède 6 faces carrées, 8 sommets et 12 arêtes.
+296	Sur une règle graduée en centimètres, un segment va de la graduation 2 à la graduation 7. Quelle est sa longueur ?	5 cm	7 cm	9 cm	On calcule l’écart entre les graduations : 7 − 2 = 5 cm.
+296	Combien valent une pièce de 2 €, une pièce de 1 € et une pièce de 50 centimes ?	3 € 50 centimes	2 € 50 centimes	3 € 05 centimes	2 € + 1 € = 3 €. En ajoutant 50 centimes, on obtient 3 € 50 centimes.
+297	Tu paies un livre à 7 € avec un billet de 10 €. Combien doit-on te rendre ?	3 €	17 €	2 €	La monnaie est la différence entre la somme donnée et le prix : 10 − 7 = 3 €.
+297	Un goûter coûte 3 € 50 centimes. Tu donnes 5 €. Quelle monnaie reçois-tu ?	1 € 50 centimes	2 € 50 centimes	1 € 05 centimes	De 3 € 50 à 4 €, il manque 50 centimes ; de 4 € à 5 €, il manque 1 €. Au total : 1 € 50 centimes.
+298	La grande aiguille est sur le 6 et la petite à mi-chemin entre 3 et 4. Quelle heure est-il ?	3 h 30	6 h 15	3 h 06	La grande aiguille sur le 6 indique 30 minutes. La petite a dépassé le 3 : il est 3 h 30.
+298	Combien de minutes dure une activité de 14 h 15 à 14 h 45 ?	30 minutes	15 minutes	45 minutes	Les heures sont identiques : on calcule 45 − 15 = 30 minutes.
+299	Combien de centimètres font 2 mètres ?	200 cm	20 cm	2 000 cm	1 m = 100 cm, donc 2 m = 200 cm.
+299	Quelle longueur est la plus grande ?	1 m	90 cm	9 cm	On convertit 1 m en 100 cm. 100 cm est plus grand que 90 cm et 9 cm.
+300	Combien de grammes font 3 kilogrammes ?	3 000 g	300 g	30 g	1 kg = 1 000 g. Donc 3 kg = 3 000 g.
+300	Quel objet a une masse proche de 1 kg ?	Un paquet de farine marqué « 1 000 g »	Un crayon de 10 g	Un sac marqué « 100 g »	1 000 g correspondent exactement à 1 kg.
+301	Combien de centilitres contient 1 litre ?	100 cL	10 cL	1 000 cL	1 L = 100 cL. Deux bouteilles de 50 cL contiennent ensemble 1 L.
+301	Un rectangle mesure 5 cm de long et 3 cm de large. Quel est son périmètre ?	16 cm	8 cm	15 cm	Le périmètre est la longueur du tour : 5 + 3 + 5 + 3 = 16 cm.
+302	Lina a 12 billes. Elle en gagne 7. Quelle opération donne son nouveau nombre de billes ?	12 + 7	12 − 7	12 ÷ 7	Elle gagne des billes, donc sa quantité augmente : on additionne 12 et 7.
+302	Il y a 4 sachets de 6 biscuits. Quelle opération donne le nombre total de biscuits ?	4 × 6	4 + 6	6 − 4	On a 4 groupes de 6 biscuits : 6 + 6 + 6 + 6 = 4 × 6 = 24.
+302	On partage 18 cartes équitablement entre 3 joueurs. Quelle opération faut-il faire ?	18 ÷ 3	18 + 3	18 × 3	Un partage équitable se calcule avec une division : chaque joueur reçoit 18 ÷ 3 = 6 cartes.
