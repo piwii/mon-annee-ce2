@@ -4,6 +4,10 @@ Lecteur statique en français, prêt à héberger sur GitHub Pages. Les 84 photo
 
 ## Ouvrir le livre
 
+Site en ligne : https://piwii.github.io/mon-annee-ce2/
+
+Dépôt GitHub : https://github.com/piwii/mon-annee-ce2
+
 Ouvrir `dist/index.html` dans un navigateur, ou lancer depuis ce dossier :
 
 ```sh
@@ -55,7 +59,7 @@ swift scripts/recognize.swift dist/photos/*.jpg > data/ocr.json
 python3 scripts/prepare.py
 ```
 
-Aucun service externe, police distante, suivi analytique ou compte utilisateur n’est requis par le lecteur. Le dossier `dist/` est le seul contenu publié par le workflow. Le site n’a pas encore été publié dans un dépôt GitHub.
+Aucun service externe, police distante, suivi analytique ou compte utilisateur n’est requis par le lecteur. Le dossier `dist/` est le seul contenu publié par le workflow. Le site est publié sur GitHub Pages ; chaque envoi sur la branche `main` déclenche son déploiement.
 
 Documentation officielle : [Configurer GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
