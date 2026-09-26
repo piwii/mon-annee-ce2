@@ -97,16 +97,6 @@
     if (location.hash === evaluationHash) openEvaluation();
     else location.hash = evaluationHash;
   };
-  byId('evaluation-copy').onclick = async () => {
-    const url = new URL(location.href);
-    url.hash = evaluationHash;
-    try {
-      await navigator.clipboard.writeText(url.href);
-      byId('evaluation-copy-status').textContent = 'Lien copié !';
-    } catch {
-      byId('evaluation-copy-status').textContent = 'Pour copier le lien, fais un appui long ou un clic droit sur « Lien direct vers cette évaluation ».';
-    }
-  };
   byId('evaluation-close').onclick = () => dialog.close();
   dialog.addEventListener('close', () => {
     if (location.hash === evaluationHash) history.replaceState(null, '', location.pathname + location.search);
