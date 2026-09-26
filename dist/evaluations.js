@@ -82,7 +82,36 @@
     });
     return block;
   }
-  byId('evaluation-start').onclick = () => { render(); dialog.showModal(); document.body.classList.add('reading'); dialog.scrollTop = 0; };
+  const evaluationHash = '#evaluation-grammaire-g1-g2-g3';
+  function openEvaluation() {
+    render();
+    if (!dialog.open) dialog.showModal();
+    document.body.classList.add('reading');
+    dialog.scrollTop = 0;
+  }
+  function syncRoute() {
+    if (location.hash === evaluationHash) openEvaluation();
+    else if (dialog.open) dialog.close();
+  }
+  byId('evaluation-start').onclick = () => {
+    if (location.hash === evaluationHash) openEvaluation();
+    else location.hash = evaluationHash;
+  };
+  byId('evaluation-copy').onclick = async () => {
+    const url = new URL(location.href);
+    url.hash = evaluationHash;
+    try {
+      await navigator.clipboard.writeText(url.href);
+      byId('evaluation-copy-status').textContent = 'Lien copié !';
+    } catch {
+      byId('evaluation-copy-status').textContent = 'Pour copier le lien, fais un appui long ou un clic droit sur « Lien direct vers cette évaluation ».';
+    }
+  };
   byId('evaluation-close').onclick = () => dialog.close();
-  dialog.addEventListener('close', () => document.body.classList.remove('reading'));
+  dialog.addEventListener('close', () => {
+    if (location.hash === evaluationHash) history.replaceState(null, '', location.pathname + location.search);
+    if (!byId('reader').open) document.body.classList.remove('reading');
+  });
+  window.addEventListener('hashchange', syncRoute);
+  syncRoute();
 })();

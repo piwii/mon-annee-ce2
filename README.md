@@ -99,3 +99,5 @@ Vérifications : couverture des 82 pages, validité des 170 questions et des cho
 La section « Évaluations » de l’accueil propose une première évaluation de grammaire sur G1 (La phrase), G2 (Ligne et phrase) et G3 (Les types de phrases). Elle comporte 10 questions à choix unique, à 1 point chacune. Toutes les réponses sont obligatoires et restent modifiables avant validation. La note sur 10 et le corrigé détaillé apparaissent à la fin. Les questions sont dans `dist/evaluations.js`.
 
 Fermer puis rouvrir l’évaluation conserve les réponses pendant la visite. Le résultat reste visible sur l’accueil ; le bouton « Recommencer l’évaluation » permet une nouvelle tentative. Les réponses et la note ne sont pas conservées après rechargement et ne sont pas envoyées à un serveur.
+
+Chaque évaluation possède un lien direct partageable. Pour G1–G3 : `#evaluation-grammaire-g1-g2-g3`, à ajouter à l’adresse du site. Le lien ouvre automatiquement l’évaluation, y compris après rechargement. La carte propose un lien et un bouton « Copier le lien ».
