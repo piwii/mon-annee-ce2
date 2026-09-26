@@ -93,3 +93,9 @@ La tentative est conservée pendant la visite, y compris lorsqu’on revient à 
 Les questions se modifient dans `data/questions.tsv` (colonnes séparées par des tabulations : identifiant de photo, question, bonne réponse, deux distracteurs, explication). Exécuter `python3 scripts/prepare_quizzes.py` pour régénérer `dist/quizzes.js`. Le moteur est dans `dist/quiz.js`.
 
 Vérifications : couverture des 82 pages, validité des 170 questions et des choix, syntaxe JavaScript, parcours réel dans le navigateur (réponse manquante, erreur et explication, retour à la photo, bilan 1/2, nouvelle tentative 2/2, problème de mathématiques), affichage mobile à 390 × 844 et absence d’exercice dans les sommaires.
+
+## Évaluations
+
+La section « Évaluations » de l’accueil propose une première évaluation de grammaire sur G1 (La phrase), G2 (Ligne et phrase) et G3 (Les types de phrases). Elle comporte 10 questions à choix unique, à 1 point chacune. Toutes les réponses sont obligatoires et restent modifiables avant validation. La note sur 10 et le corrigé détaillé apparaissent à la fin. Les questions sont dans `dist/evaluations.js`.
+
+Fermer puis rouvrir l’évaluation conserve les réponses pendant la visite. Le résultat reste visible sur l’accueil ; le bouton « Recommencer l’évaluation » permet une nouvelle tentative. Les réponses et la note ne sont pas conservées après rechargement et ne sont pas envoyées à un serveur.
