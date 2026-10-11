@@ -101,3 +101,5 @@ La section « Évaluations » de l’accueil propose une première évaluation d
 Fermer puis rouvrir l’évaluation conserve les réponses pendant la visite. Le résultat reste visible sur l’accueil ; le bouton « Recommencer l’évaluation » permet une nouvelle tentative. Les réponses et la note ne sont pas conservées après rechargement et ne sont pas envoyées à un serveur.
 
 Chaque évaluation possède un lien direct partageable. Pour G1–G3 : `#evaluation-grammaire-g1-g2-g3`, à ajouter à l’adresse du site. Le lien ouvre automatiquement l’évaluation, y compris après rechargement.
+
+Une deuxième évaluation porte sur les verbes **être et avoir au passé composé, au présent et au futur simple** : 20 questions (2 de repérage des temps et 18 de conjugaison), à 0,5 point chacune, avec une note sur 10 et un corrigé expliqué. Lien direct : `#evaluation-etre-avoir-passe-present-futur`. Les réponses et résultats des deux évaluations sont indépendants pendant la visite.
