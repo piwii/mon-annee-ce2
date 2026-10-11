@@ -34,9 +34,232 @@
     {"lesson": "Futur · avoir", "question": "Complète au futur : « Demain, vous … le temps de jouer. »", "options": ["aviez", "avez", "aurez"], "answer": 2, "explanation": "Au futur simple, avoir se conjugue « vous aurez »."},
     {"lesson": "Futur · avoir", "question": "Complète au futur : « L’année prochaine, elle … neuf ans. »", "options": ["aura", "auras", "a"], "answer": 0, "explanation": "Au futur simple, on écrit « elle aura ». « Auras » s’utilise avec tu."}
   ];
+  const verbQuestions = [
+  {
+    "lesson": "G6 · Repérer le verbe",
+    "question": "Quel est le verbe dans « Le chien court dans le jardin. » ?",
+    "options": [
+      "chien",
+      "court",
+      "jardin"
+    ],
+    "answer": 1,
+    "explanation": "Le verbe court indique ce que fait le chien."
+  },
+  {
+    "lesson": "G6 · Repérer le verbe",
+    "question": "Quel est le verbe dans « Lina dessine une fleur. » ?",
+    "options": [
+      "dessine",
+      "Lina",
+      "fleur"
+    ],
+    "answer": 0,
+    "explanation": "Dessine indique l’action de Lina."
+  },
+  {
+    "lesson": "G6 · Repérer le verbe",
+    "question": "Quel est le verbe dans « Dans la cour, les élèves discutent. » ?",
+    "options": [
+      "cour",
+      "élèves",
+      "discutent"
+    ],
+    "answer": 2,
+    "explanation": "Discutent indique ce que font les élèves."
+  },
+  {
+    "lesson": "G6 · Repérer le verbe",
+    "question": "Quel est le verbe dans « Vous regardez les étoiles. » ?",
+    "options": [
+      "Vous",
+      "regardez",
+      "étoiles"
+    ],
+    "answer": 1,
+    "explanation": "On peut dire : « Vous ne regardez pas les étoiles. » Le verbe est regardez."
+  },
+  {
+    "lesson": "G6 · Repérer le verbe",
+    "question": "Quel mot indique l’action dans « Le bébé pleure. » ?",
+    "options": [
+      "pleure",
+      "bébé",
+      "Le"
+    ],
+    "answer": 0,
+    "explanation": "Pleure est le verbe : il indique ce que fait le bébé."
+  },
+  {
+    "lesson": "G6 · La négation",
+    "question": "Quelle phrase permet de repérer le verbe de « Tom chante. » avec ne… pas ?",
+    "options": [
+      "Tom chante fort.",
+      "Tom chantera.",
+      "Tom ne chante pas."
+    ],
+    "answer": 2,
+    "explanation": "En mettant la phrase à la forme négative, on place ne et pas autour de chante."
+  },
+  {
+    "lesson": "G6 · La négation",
+    "question": "Quel verbe est entre ne et pas dans « Le chat ne dort pas. » ?",
+    "options": [
+      "chat",
+      "dort",
+      "pas"
+    ],
+    "answer": 1,
+    "explanation": "Dort est placé entre les deux mots de la négation : ne et pas."
+  },
+  {
+    "lesson": "G6 · La négation",
+    "question": "Quel est le verbe dans « Elle n’écoute pas la radio. » ?",
+    "options": [
+      "écoute",
+      "radio",
+      "pas"
+    ],
+    "answer": 0,
+    "explanation": "Écoute est entre n’ et pas. Devant une voyelle, ne devient n’."
+  },
+  {
+    "lesson": "G6 · La négation",
+    "question": "Quelle paire de mots encadre le verbe dans « Nous ne jouons pas dehors. » ?",
+    "options": [
+      "Nous et dehors",
+      "jouons et dehors",
+      "ne et pas"
+    ],
+    "answer": 2,
+    "explanation": "Les mots ne et pas forment les « lunettes » autour du verbe jouons."
+  },
+  {
+    "lesson": "G6 · La négation",
+    "question": "Quel est le verbe dans « Les oiseaux ne picorent pas les graines. » ?",
+    "options": [
+      "oiseaux",
+      "picorent",
+      "graines"
+    ],
+    "answer": 1,
+    "explanation": "Le verbe picorent se trouve entre ne et pas."
+  },
+  {
+    "lesson": "G6 · L’infinitif",
+    "question": "Quel est l’infinitif de « danse » dans « Elle danse. » ?",
+    "options": [
+      "danser",
+      "dansons",
+      "dansait"
+    ],
+    "answer": 0,
+    "explanation": "On peut dire « Elle est en train de danser ». L’infinitif est danser."
+  },
+  {
+    "lesson": "G6 · L’infinitif",
+    "question": "Quel est l’infinitif de « finissent » dans « Ils finissent leur dessin. » ?",
+    "options": [
+      "finit",
+      "finissons",
+      "finir"
+    ],
+    "answer": 2,
+    "explanation": "On peut dire « Il faut finir ». L’infinitif est finir."
+  },
+  {
+    "lesson": "G6 · L’infinitif",
+    "question": "Quel est l’infinitif de « prenons » dans « Nous prenons le train. » ?",
+    "options": [
+      "prend",
+      "prendre",
+      "prenez"
+    ],
+    "answer": 1,
+    "explanation": "On peut dire « Il faut prendre le train ». L’infinitif est prendre."
+  },
+  {
+    "lesson": "G6 · L’infinitif",
+    "question": "Complète : « Il lit. Il est en train de… »",
+    "options": [
+      "lire",
+      "lit",
+      "lisons"
+    ],
+    "answer": 0,
+    "explanation": "Après « Il est en train de », on emploie l’infinitif lire."
+  },
+  {
+    "lesson": "G6 · L’infinitif",
+    "question": "Quel verbe est à l’infinitif ?",
+    "options": [
+      "jouent",
+      "jouais",
+      "jouer"
+    ],
+    "answer": 2,
+    "explanation": "Jouer est à l’infinitif. Jouent et jouais sont des formes conjuguées."
+  },
+  {
+    "lesson": "G6 · Verbe conjugué",
+    "question": "Quel verbe est conjugué ?",
+    "options": [
+      "marcher",
+      "marchons",
+      "courir"
+    ],
+    "answer": 1,
+    "explanation": "Marchons est conjugué avec nous. Marcher et courir sont des infinitifs."
+  },
+  {
+    "lesson": "G6 · Changer de personne",
+    "question": "Quel mot change entre « Je saute. » et « Nous sautons. », en plus du pronom ?",
+    "options": [
+      "saute devient sautons",
+      "saute devient sauter",
+      "Aucun mot ne change"
+    ],
+    "answer": 0,
+    "explanation": "Le verbe change de forme selon la personne : je saute, nous sautons."
+  },
+  {
+    "lesson": "G6 · Changer de temps",
+    "question": "Quel mot change entre « Aujourd’hui, il joue. » et « Hier, il jouait. », en plus du mot qui indique le moment ?",
+    "options": [
+      "il",
+      "joue devient jouer",
+      "joue devient jouait"
+    ],
+    "answer": 2,
+    "explanation": "Le verbe change de forme selon le temps : joue au présent, jouait à l’imparfait."
+  },
+  {
+    "lesson": "G6 · Verbe et infinitif",
+    "question": "Quelle paire associe un verbe conjugué à son infinitif ?",
+    "options": [
+      "mangent → marchent",
+      "écrivons → écrire",
+      "dormir → dort"
+    ],
+    "answer": 1,
+    "explanation": "Écrivons est une forme conjuguée du verbe écrire. Dans dormir → dort, l’ordre est inversé."
+  },
+  {
+    "lesson": "G6 · Faire le point",
+    "question": "Quelle affirmation est correcte ?",
+    "options": [
+      "Un verbe conjugué peut changer selon la personne et le temps.",
+      "Un verbe se trouve toujours au début de la phrase.",
+      "Tous les infinitifs se terminent par -er."
+    ],
+    "answer": 0,
+    "explanation": "Le verbe conjugué varie selon la personne et le temps. Les infinitifs peuvent aussi se terminer par -ir, -re ou -oir."
+  }
+];
   const evaluations = [
     {hash:'#evaluation-grammaire-g1-g2-g3', title:'G1, G2 et G3', label:'ÉVALUATION 1 · GRAMMAIRE', start:'evaluation-start', last:'evaluation-last', questions:grammarQuestions, answers:[], finished:false},
-    {hash:'#evaluation-etre-avoir-passe-present-futur', title:'Être et avoir : passé, présent et futur', label:'ÉVALUATION 2 · CONJUGAISON', start:'conjugation-start', last:'conjugation-last', questions:conjugationQuestions, answers:[], finished:false}
+    {hash:'#evaluation-etre-avoir-passe-present-futur', title:'Être et avoir : passé, présent et futur', label:'ÉVALUATION 2 · CONJUGAISON', start:'conjugation-start', last:'conjugation-last', questions:conjugationQuestions, answers:[], finished:false},
+    {hash:'#evaluation-grammaire-g6', title:'G6 · Le verbe', label:'ÉVALUATION 3 · GRAMMAIRE', start:'g6-start', last:'g6-last', questions:verbQuestions, answers:[], finished:false}
   ];
   let active = evaluations[0];
   const byId = id => document.getElementById(id);
